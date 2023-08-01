@@ -20,7 +20,7 @@
 
 import java.text.NumberFormat;
 
-public class Main {
+public class Reto31 {
 
     public static void main(String[] args) {
         String[] abaco = {"O---OOOOOOOO",

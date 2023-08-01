@@ -16,7 +16,7 @@ import java.util.Map;
  *     Salida: MOUREDEV
  */
 
-public class Main {
+public class Reto30 {
 
     public static void main(String[] args) {
         System.out.println(mensajeAT9("6-666-88-777-33-3-33-888"));
