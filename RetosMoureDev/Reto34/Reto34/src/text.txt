@@ -1,0 +1,6 @@
+Hola Mundo!
+Estamos probando el Reto34 de los retos de Programación de MoureDev. Este reto
+trata sobre crear o leer y esribir en un documento txt. También se deben poder hacer
+saltos de linea (como este que acabo de hacer).
+Un saludo!
+

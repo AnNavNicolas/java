@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RetosMoureDev/Reto31/AnNavNicolas/AnNavNicolas.iml" filepath="$PROJECT_DIR$/RetosMoureDev/Reto31/AnNavNicolas/AnNavNicolas.iml" />
       <module fileurl="file://$PROJECT_DIR$/GIT.iml" filepath="$PROJECT_DIR$/GIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RetosMoureDev/Reto32/Reto32/Reto32.iml" filepath="$PROJECT_DIR$/RetosMoureDev/Reto32/Reto32/Reto32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RetosMoureDev/Reto34/Reto34/Reto34.iml" filepath="$PROJECT_DIR$/RetosMoureDev/Reto34/Reto34/Reto34.iml" />
     </modules>
   </component>
 </project>
